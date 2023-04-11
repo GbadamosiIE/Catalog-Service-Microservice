@@ -1,0 +1,12 @@
+C:\Users\Gs1 System Nigeria\projects\play.Catalog\scr\Play.Catalog.Contracts\bin\Debug\net5.0\play.Catalog.Contracts.deps.json
+C:\Users\Gs1 System Nigeria\projects\play.Catalog\scr\Play.Catalog.Contracts\bin\Debug\net5.0\play.Catalog.Contracts.dll
+C:\Users\Gs1 System Nigeria\projects\play.Catalog\scr\Play.Catalog.Contracts\bin\Debug\net5.0\play.Catalog.Contracts.pdb
+C:\Users\Gs1 System Nigeria\projects\play.Catalog\scr\Play.Catalog.Contracts\obj\Debug\net5.0\play.Catalog.Contracts.csproj.AssemblyReference.cache
+C:\Users\Gs1 System Nigeria\projects\play.Catalog\scr\Play.Catalog.Contracts\obj\Debug\net5.0\play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gs1 System Nigeria\projects\play.Catalog\scr\Play.Catalog.Contracts\obj\Debug\net5.0\play.Catalog.Contracts.AssemblyInfoInputs.cache
+C:\Users\Gs1 System Nigeria\projects\play.Catalog\scr\Play.Catalog.Contracts\obj\Debug\net5.0\play.Catalog.Contracts.AssemblyInfo.cs
+C:\Users\Gs1 System Nigeria\projects\play.Catalog\scr\Play.Catalog.Contracts\obj\Debug\net5.0\play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Gs1 System Nigeria\projects\play.Catalog\scr\Play.Catalog.Contracts\obj\Debug\net5.0\play.Catalog.Contracts.dll
+C:\Users\Gs1 System Nigeria\projects\play.Catalog\scr\Play.Catalog.Contracts\obj\Debug\net5.0\refint\play.Catalog.Contracts.dll
+C:\Users\Gs1 System Nigeria\projects\play.Catalog\scr\Play.Catalog.Contracts\obj\Debug\net5.0\play.Catalog.Contracts.pdb
+C:\Users\Gs1 System Nigeria\projects\play.Catalog\scr\Play.Catalog.Contracts\obj\Debug\net5.0\ref\play.Catalog.Contracts.dll
